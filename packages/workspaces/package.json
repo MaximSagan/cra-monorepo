@@ -1,5 +1,5 @@
 {
-  "name": "@ui/react-app-hooks",
+  "name": "@tickle/workspaces",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,7 +7,7 @@
     "@types/node": "10.12.18",
     "@types/react": "16.7.18",
     "@types/react-dom": "16.0.11",
-    "@ui/shared": "*",
+    "@tickle/ui-kit": "*",
     "react": "^16.8.0-alpha.0",
     "react-dom": "^16.8.0-alpha.0",
     "react-scripts": "2.1.3",

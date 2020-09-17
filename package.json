@@ -3,7 +3,7 @@
   "private": true,
   "scripts": {
     "start": "lerna run start --parallel",
-    "start:hooks": "lerna run start --scope @ui/react-app-hooks --scope @ui/shared --parallel",
+    "start:workspaces": "lerna run start --scope @tickle/workspaces --scope @tickle/ui-kit --parallel",
     "setup": "npx lerna bootstrap"
   },
   "devDependencies": {
